@@ -1,0 +1,3 @@
+A beamer theme with few bells and whistles, suitable for presentations of any length.
+
+Copy into the directory with your presentation's .tex file, or put it in texmf/tex/latex/beamer/extensions
